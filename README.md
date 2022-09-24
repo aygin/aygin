@@ -8,25 +8,25 @@
 <div id="header" align="center">
   
   <div id="badges">
-  <a href="https://www.linkedin.com/in/aygin-naderi/">
+  <a href="https://www.linkedin.com/in/kamran-kamranifard/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/luna__e__sole">
+  <a href="https://twitter.com/kamrankamrani73">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="mailto:ayginnaderi@gmail.com">
+  <a href="mailto:k.kamranifard@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
   
-<img src="https://komarev.com/ghpvc/?username=aygin&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=kamrankamrani&style=flat-square&color=blue" alt=""/>
   
 </div>
 
 <br/><br/>  
  
 
-<div align="center" id="icons" style="padding: 20px;background-color: red;">
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
@@ -48,7 +48,7 @@
 <br/><br/>  
 
 <div id="stats" align="center">
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=aygin&theme=dark&background=212121" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=kamrankamrani&theme=dark&background=212121" />
 </div> 
 
 <br/><br/> 
