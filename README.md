@@ -1,7 +1,7 @@
 
-**.. / .- -- / .- -.-- --. .. -. -.-.--**  
-
-**.- / -.-. ..- .-. .. --- ..- ... / .--. . .-. ... --- -. / ... .- -- . / .- ... / -.-- --- ..- --..-- / .-- .... --- / .-.. --- ...- . ... / . -- -... . -.. -.. . -.. / ... -.-- ... - . -- ... .-.-.-** 
+<div align="center">
+  <img src="https://media.giphy.com/media/fBq4IBhQkC69ancGiJ/giphy.gif" width="240" height="240"/>
+</div>  
 
 <br/><br/>  
 
@@ -27,7 +27,7 @@
 </div>
 
 ---  
- 
+### :hammer_and_wrench: Languages and Tools :  
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Js" alt="Js" width="60" height="60"/>&nbsp;
