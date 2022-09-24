@@ -46,6 +46,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 </div>
 
+<br/><br/>  
+
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/gcc/gcc-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="40" height="40"/>&nbsp;
