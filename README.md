@@ -13,7 +13,7 @@
   <a href="https://twitter.com/luna__e__sole">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <a href="ayginnaderi@gmail.com">
+  <a href="mailto:ayginnaderi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
