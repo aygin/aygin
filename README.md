@@ -47,6 +47,6 @@
 
 <br/><br/>  
 
-<div style="width:100%;display:flex;justify-content:center;">
+<div id="stats" align="center">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=aygin&theme=dark&background=000000" />
 </div> 
