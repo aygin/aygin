@@ -26,7 +26,7 @@
 <br/><br/>  
  
 
-<div align="center">
+<div align="center" id="icons" style="padding: 20px;background-color: red;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
@@ -47,7 +47,7 @@
 
 <br/><br/>  
 
-<div id="stats" align="center" style="padding: 20px;background-color: red;">
+<div id="stats" align="center">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=aygin&theme=dark&background=212121" />
 </div> 
 
