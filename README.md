@@ -47,9 +47,11 @@
 
 <br/><br/>  
 
-<div id="stats" align="center">
+<div id="stats" align="center" style="padding: 20px;background-color: red;">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=aygin&theme=dark&background=212121" />
 </div> 
+
+<br/><br/> 
 
 <div id="langs" align="center">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankamrani&layout=compact&theme=vision-friendly-dark" />
