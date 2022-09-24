@@ -48,5 +48,9 @@
 <br/><br/>  
 
 <div id="stats" align="center">
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=aygin&theme=dark&background=000000" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=aygin&theme=dark&background=eeeeee" />
+</div> 
+
+<div id="langs" align="center">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankamrani&layout=compact&theme=vision-friendly-dark" />
 </div> 
