@@ -26,7 +26,7 @@
   
 </div>
 
-<br/><br/>  
+---  
  
 
 <div align="center">
@@ -49,7 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="60" height="60"/>&nbsp;
 </div>
 
-<br/><br/>  
+---    
 
 <div id="stats" align="center">
 	<img src="http://github-readme-streak-stats.herokuapp.com?user=kamrankamrani&theme=dark&background=212121" />
