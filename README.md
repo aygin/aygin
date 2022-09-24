@@ -2,7 +2,8 @@
 **.. / .- -- / .- -.-- --. .. -. -.-.--**  
 
 **.- / -.-. ..- .-. .. --- ..- ... / .--. . .-. ... --- -. / ... .- -- . / .- ... / -.-- --- ..- --..-- / .-- .... --- / .-.. --- ...- . ... / . -- -... . -.. -.. . -.. / ... -.-- ... - . -- ... .-.-.-** 
----
+
+---  
 
 <div id="header" align="center">
   
@@ -25,11 +26,7 @@
 ---  
  
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="React" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Spring" alt="Spring" width="60" height="60"/>&nbsp;
@@ -50,6 +47,5 @@
 
 ---
 
-### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aygin&theme=dark&background=000000)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamrankamrani&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
